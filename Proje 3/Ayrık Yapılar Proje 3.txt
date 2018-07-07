@@ -1,0 +1,4 @@
+Programýn Amacý:
+Towers of Hanoi, Sierpinski Triangle, Diamond Boxes, Square Spiral, Caesarcipher gibi problemlerin kullanýcýdan bir tekrar 
+sayýsý alýnarak çözülmesi.
+

@@ -1,0 +1,2 @@
+Programýn Amacý:
+Ekteki png dosyasýnda gösterilen kurallar çerçevesinde kullanýcýnýn gireceði tekrar sayýsý kadar çýktýlarýn verilmesi.

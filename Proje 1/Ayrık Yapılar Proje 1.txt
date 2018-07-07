@@ -1,0 +1,8 @@
+Programýn Amacý:
+Kullanýcýnýn vereceði iki kümenin birleþim, kesiþim, fark ve kartezyen çarpýmýnýn bulunmasý.
+
+
+Programýn Çalýþma Þekli:
+Show butonuna týklanýldýðý zaman kullanýcýdan sýrayla 1.kümenin adý, eleman sayýsý, kümenin elemanlarý ve daha sonra
+2.kümenin adý, eleman sayýsý ve küme elemanlarý alýndýktan sonra bu iki kümenin birleþim, kesiþim, fark ve kartezyen 
+çarpýmý kümelerini çýkarýyor.
